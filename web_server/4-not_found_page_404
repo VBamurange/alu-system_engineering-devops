@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-"""not found page 404"""
+#not found page 404
 sudo apt update -y
 sudo apt install nginx -y
 
