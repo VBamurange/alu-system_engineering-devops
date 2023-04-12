@@ -1,4 +1,4 @@
-#!/usr/boin/env bash
+#!/usr/bin/env bash
 #nginx likes port 80
 rm /etc/nginx/sites-enabled/default
 ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
